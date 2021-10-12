@@ -2,7 +2,14 @@
 
 #include <stdio.h>
 
-//
+//add two sparse vector
+//for example sparse vector 1 has val1[3]={1,5,6}
+//                                pos1[3]={0,1,3}
+//                                
+//            sparse vector 2 has val2[3]={2,3,4}
+//                                pos2[3]={1,2,3}
+//add two sparse vector is val3[4]={1,7,3,10}
+//                         pos3[4]={0,1,2,3}
 
 int main()
 {
