@@ -10,6 +10,8 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main()
 {
+    //3x3 matrix example 
+    // object (output should be 1,4,2,7,5,3,8,6,9)
     int arr[3][3]={{1,2,3},
                    {4,5,6},
                    {7,8,9}};
